@@ -17,9 +17,9 @@ One of the most useful insights learned from our analysis is that returning user
 
 ## Strategies and Tactics
 
-![](.\images\Macro.jpg)
+![](./images/Macro.jpg)
 
-![](.\images\Micro.jpg)
+![](./images/Micro.jpg)
 
 ## Digital Analytics Measurement Model (DAMM)
 
@@ -110,7 +110,7 @@ III. Conversions
 
 ## Executive Dashboard
 
-![](.\images\Dashboard.jpg)
+![](./images/Dashboard.jpg)
 
 This dashboard summarizes the key metrics that we are measuring and can be used in the future by the analytics team as a benchmark for keeping track of the KPIs we found most important. It is meant to be read from left to right. We have focused on session duration (New vs Returning users), average Ecommerce conversion rate (all devices and then by device), Users by user type(and revenue), Visitors by channel, bounce rate, and registrations. By using this dashboard the analytics team can keep track of the targets we have set for them.
 

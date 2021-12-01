@@ -25,6 +25,7 @@ One of the most useful insights learned from our analysis is that returning user
 
 The Digital Analytics Measurement Model, also known as DAMM summarizes business and website objectives in order to convert them into measurable metrics. These metrics correlate with the managerial goals of the company and assess the effectiveness of its digital performance over time with a high level of accuracy. The table below provides details of the model, according to the three different areas of Digital Marketing.
 
+<p>
 <table align="left">
 <thead>
   <tr>
@@ -67,6 +68,7 @@ The Digital Analytics Measurement Model, also known as DAMM summarizes business 
   </tr>
 </tbody>
 </table>
+</p>
 
 ## Key Performance Indicators (KPI’s)
 

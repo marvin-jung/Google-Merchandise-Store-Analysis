@@ -1,7 +1,5 @@
 # Website Analysis - Google Merchandise Store
 
-# Website Analysis - Google Merchandise Store
-
 ### Team 15 
 
 - Nazneen Cohen
